@@ -1,0 +1,4 @@
+// tipo number 
+const meunumero = 3;
+const primeiroNumero =1;
+const segundo = 2; 
